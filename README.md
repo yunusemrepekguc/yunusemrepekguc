@@ -14,4 +14,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/yunus-emre-pekgüç)
 ![Generic badge](https://img.shields.io/badge/Code-C&sharp;-green.svg)
 
 ## 
-![Stats](https://github-readme-stats.vercel.app/api?username=yunusemrre&count_private=true&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yunusemrepekguc&count_private=true&show_icons=true&theme=tokyonight)
